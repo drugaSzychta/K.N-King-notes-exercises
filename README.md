@@ -2,8 +2,8 @@
 
 ![I admire that guy, not kidding](https://i.kym-cdn.com/entries/icons/original/000/023/419/nerd_smoking.JPG)
 
-## Here are my notes throughout learning basic C concepts. The goal of learning a C is to create Arduino projects and then move into C++ and embedded programming.
-## The repository consists of my observation, thoughts, links, and programs based on the book
+  Here are my notes throughout learning basic C concepts. The goal of learning a C is to create Arduino projects and then move into C++ and embedded programming.
+The repository consists of my observation, thoughts, links, and programs based on the book
 
 The chapters, which I completed: 
 
