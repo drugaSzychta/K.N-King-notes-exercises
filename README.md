@@ -29,4 +29,4 @@ The chapters, which I completed:
 * Chapter 21 – The Standard Library
 
 
-## The aproximate date of ending is 6 March 2022.
+## The approximate date of ending is 6 March 2022.
