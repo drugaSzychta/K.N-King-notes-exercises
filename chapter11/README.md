@@ -1,3 +1,4 @@
+# CHAPTER 11 NOTES/THOUGHTS
 An * operator have different meaning depend of the context. For example:
 int * var indicate to a compiler that this literal point to a memory.
 *var however is a indirection operator.
