@@ -1,0 +1,2 @@
+28.11.2021
+I didn't know that in gdb online when I create two char arrays and put them into printf("%s %s, a, b), there would be a problem with output. Solution: add \0 at the end of a array of characters
