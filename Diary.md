@@ -8,3 +8,5 @@ Solution: add \0 at the end of a array of characters. Additional [link](https://
         printf("%.2f = %d\n", (double)nominals[index]/100, result[index]);
     }`
     [link](https://stackoverflow.com/questions/70135954/how-can-i-round-a-fraction-properly-to-two-places-after-the-decimal)
+    
+*[fair interesting](https://stackoverflow.com/questions/37259472/why-does-c-not-allow-concatenating-strings-when-using-the-conditional-operator/37259811#37259811) They talk about translation phase an d run-time phase. translation part belongs to the compiler of course
