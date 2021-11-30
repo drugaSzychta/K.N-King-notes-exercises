@@ -5,3 +5,7 @@
 - konwersja z int, double na string. Chyba nieużywany w systemach embedded.(korzysta z bibliotek, które zajmują dużo miejsca),  dodaje się +1 do długości, by dołączyć terminated null in strings.
 
 ## memcpy() and memmove()
+
+## strcpy(dest,source) - must have
+
+## <stdbool.h> bool
