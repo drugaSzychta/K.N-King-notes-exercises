@@ -14,7 +14,8 @@
 fun(int a[]);
 ...
 fun(int *p){
-...}```
+...}
+```
 
 *Compilers determine which way is better to deal with arrays: by array subscription or by pointer. In the past there was a difference, but not today
 *Pointer points to a string is exist of course.
