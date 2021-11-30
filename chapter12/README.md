@@ -10,10 +10,11 @@
 `*p++ // retrieve a value where p pointo to and increment a pointer by one`
 *An array copied to a function ins" copied by value. Large arrays doesn't make any performance issues.
 *We can use a pointer in a function to fetch a data from array.
-'fun(int a[];
+```c
+fun(int a[]);
 ...
 fun(int *p){
-...}'
+...}```
 
 *Compilers determine which way is better to deal with arrays: by array subscription or by pointer. In the past there was a difference, but not today
 *Pointer points to a string is exist of course.
