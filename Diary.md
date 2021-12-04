@@ -10,3 +10,5 @@ Solution: add \0 at the end of a array of characters. Additional [link](https://
     [link](https://stackoverflow.com/questions/70135954/how-can-i-round-a-fraction-properly-to-two-places-after-the-decimal)
     
 *[interesting](https://stackoverflow.com/questions/37259472/why-does-c-not-allow-concatenating-strings-when-using-the-conditional-operator/37259811#37259811) They talk about translation phase an d run-time phase. translation part belongs to the compiler of course
+
+*It's a good idea to use malloc() in embedded systems? [link](https://electronics.stackexchange.com/questions/171257/realloc-wasting-lots-of-space-in-my-mcu/171581#171581)
