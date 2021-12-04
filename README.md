@@ -1,4 +1,5 @@
 # K.N-King-notes-exercises
+ "Education is not the filling of a pail, but the lighting of a fire"
 
 ![I admire that guy, not kidding](https://i.kym-cdn.com/entries/icons/original/000/023/419/nerd_smoking.JPG)
 
