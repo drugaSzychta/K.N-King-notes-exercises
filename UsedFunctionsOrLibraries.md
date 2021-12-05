@@ -15,3 +15,5 @@
 ##
 
 ## <stdbool.h> bool
+
+## nice way to remove a string char [link](https://stackoverflow.com/questions/5457608/how-to-remove-the-character-at-a-given-index-from-a-string-in-c)
