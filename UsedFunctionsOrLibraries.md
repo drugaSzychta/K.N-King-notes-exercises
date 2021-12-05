@@ -17,3 +17,5 @@
 ## <stdbool.h> bool
 
 ## nice way to remove a string char [link](https://stackoverflow.com/questions/5457608/how-to-remove-the-character-at-a-given-index-from-a-string-in-c)
+
+## sscanf() Boski do dzielenia stringów i zliczania ile zmiennycb zostało wypełnionych [libk](https://www.tutorialspoint.com/c_standard_library/c_function_sscanf.htm)
