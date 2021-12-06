@@ -13,3 +13,7 @@ Solution: add \0 at the end of a array of characters. Additional [link](https://
 
 * It's a good idea to use malloc() in embedded systems? [link](https://electronics.stackexchange.com/questions/171257/realloc-wasting-lots-of-space-in-my-mcu/171581#171581)
 * Nice way to remove a string char [link](https://stackoverflow.com/questions/5457608/how-to-remove-the-character-at-a-given-index-from-a-string-in-c)
+
+06.12.2021
+I try to understand this program from chapter 13 [link](https://stackoverflow.com/questions/15314072/understanding-the-strcmp-function-in-one-month-reminder-progam)
+It is a strange that when we assign a string to a 2d array, we can only use arr[] instead arr[][];
