@@ -41,4 +41,7 @@ int main()
 }
 ```
 * char *arg[] means array of pointers, or array of strings(the same meaning)
+```C
+int main(int argc,*arg[])
+```
 
