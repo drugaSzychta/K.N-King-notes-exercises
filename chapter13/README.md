@@ -40,4 +40,5 @@ int main()
     return 0;
 }
 ```
+* char *arg[] means array of pointers, or array of strings(the same meaning)
 
