@@ -33,6 +33,8 @@ The chapters, which I completed:
 ## The approximate date of ending is 6 March 2022.
 
 Nice additional sources of learning:
-https://overiq.com/c-programming-101/
+
+https://overiq.com/c-programming-101
+
 https://stackoverflow.com/
 
