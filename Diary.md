@@ -19,3 +19,5 @@ Solution: add \0 at the end of a array of characters. Additional [link](https://
 It is a strange that when we assign a string to a 2d array, we can only use arr[] instead arr[][];
 
 * The difference between *arr[] and **arr [link](https://stackoverflow.com/questions/37932739/difference-between-arr-and-arr)
+
+* Holy cow(confusion with pointers) [link](https://stackoverflow.com/questions/55713975/what-is-the-difference-between-arr-and-arr)
