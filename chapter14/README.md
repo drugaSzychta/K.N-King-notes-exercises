@@ -14,4 +14,6 @@
 Preprocessor expands macros, includes a code from headers, erases comments, prepares code for compilation.
 Generally speaking, it's hard to find many applications for macros right now, except for simple macros and constants, check OS, and debugging process.
 
+Preprocessor has limited tools to check whether macros are written properly. Use macros carefully, because bugs on the preprocessor side are hard to find!
+
  Key phrases, that are better to remember in the future: freestanding implementation, include guards, #pragma,
